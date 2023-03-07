@@ -12,7 +12,7 @@
 
 
 <p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayconblopes&rank=-?&margin-w=15&margin-h=15&column=3&theme=dracula" alt="mayconblopes" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayconblopes&rank=-?&margin-w=15&margin-h=15&column=3&theme=juicyfresh" alt="mayconblopes" /></a>
  </p>
  
 <br>
