@@ -1,5 +1,3 @@
-<h1 align="center">Hi there! I'm Maycon 👋</h1>
-
 <p align="center">
 <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=mayconblopes&show_icons=true&locale=en&theme=great-gatsby" alt="mayconblopes" /></a>
 </p>
@@ -26,11 +24,11 @@
 <br>
 <br>
 
-- 🔭 I’m currently working on [FullstackOpen course (University of Helsinki)](https://fullstackopen.com)
+- 🔭 Working on [FullstackOpen course (University of Helsinki)](https://fullstackopen.com)
 
-- 🌱 I’m currently learning **UX/UI Designer (by Google) and also ReactJS, NodeJS**
+- 🌱 Learning **UX/UI Designer (by Google) and also ReactJS, NodeJS**
 
-- 👨‍💻 Portfolio at [www.barretolopes.com](www.barretolopes.com)
+- 👨‍💻 Portfolio: [www.barretolopes.com](www.barretolopes.com)
 
 <br>
 
