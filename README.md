@@ -1,4 +1,17 @@
 <p align="center">
+<pre>
+                                               _     _                       
+   ____                                       | |   | |                      
+  / __ \ _ __ ___   __ _ _   _  ___ ___  _ __ | |__ | | ___  _ __   ___  ___ 
+ / / _` | '_ ` _ \ / _` | | | |/ __/ _ \| '_ \| '_ \| |/ _ \| '_ \ / _ \/ __|
+| | (_| | | | | | | (_| | |_| | (_| (_) | | | | |_) | | (_) | |_) |  __/\__ \
+ \ \__,_|_| |_| |_|\__,_|\__, |\___\___/|_| |_|_.__/|_|\___/| .__/ \___||___/
+  \____/                  __/ |                             | |              
+                         |___/                              |_|              
+  </pre>
+</p>
+
+<p align="center">
 <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=mayconblopes&show_icons=true&locale=en&theme=great-gatsby" alt="mayconblopes" /></a>
 </p>
 
