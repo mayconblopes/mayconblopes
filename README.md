@@ -1,7 +1,7 @@
 <p align="center">
 
 <p align="center">
-<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=mayconblopes&show_icons=true&locale=en&theme=great-gatsby" alt="mayconblopes" /></a>
+<a><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mayconblopes&show_icons=true&locale=en&theme=great-gatsby" alt="mayconblopes" /></a>
 </p>
 
 <!--
